@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=LineHero's%20Github&fontSize=80&desc=idontknow);
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=LineHero's%20Github&fontSize=80&animation=fadeIn);
 <!--
 **LineHero/LineHero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
