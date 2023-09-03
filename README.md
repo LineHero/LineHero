@@ -1,8 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=LineHero's%20Github&fontSize=80&animation=fadeIn)
 
-## <div align="center"> ⚜ Tech Stack ⚜ </div>
+## <div align="center"> ⚜ Introduction ⚜ </div>
+
+<div align="center"> This is LineHero's Github, space that summarizes the practices and projects I've been working on. :)</div>
+
+<br/>
 
 ### <div align="center"> 💻 Skills 💻 </div>
+
+<br/>
 
 <div align="center">
   
